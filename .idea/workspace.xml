@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7beb62c5-4e60-4fc5-9166-ad4ed71fb2a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="DELETED" beforePath="D:\Xampp\htdocs\dmcaapp\aaa\ExampleTest.php" afterPath="" />
       <change type="DELETED" beforePath="D:\Xampp\htdocs\dmcaapp\aaa\TestCase.php" afterPath="" />
       <change type="DELETED" beforePath="D:\Xampp\htdocs\dmcaapp\test\ExampleTest.php" afterPath="" />
       <change type="DELETED" beforePath="D:\Xampp\htdocs\dmcaapp\test\TestCase.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dmcaapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.085141905" vertical-offset="0" max-vertical-offset="599">
-              <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -277,7 +275,7 @@
     <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.085141905" vertical-offset="0" max-vertical-offset="599">
-          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding />
         </state>
       </provider>
