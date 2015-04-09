@@ -1,5 +1,5 @@
 @extends('app')
 
 @section('content')
-	Home Page
+	Wecleome and have a safe landing on welcome page.
 @stop
